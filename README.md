@@ -30,3 +30,6 @@ Contoh cara menggunakan aplikasi/bank:
 ```bash
 # Langkah-langkah untuk menjalankan aplikasi/bank
 python bank.py
+```
+## picture
+![image](https://github.com/HanzYiz/bank.py/assets/52378426/26af94ad-6a8c-4998-89e6-65068ad67f1d)
